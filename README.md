@@ -1,7 +1,7 @@
 # RepoSeatbelt
 
 **Buckle up before you vibe-code.**
-
+![RepoSeatbelt doctor demo](docs/assets/doctor-demo.png)
 RepoSeatbelt is a Windows-first safety toolkit for AI coding agents like Codex,
 Claude Code, Cursor, Gemini CLI, and Copilot.
 
