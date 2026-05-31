@@ -1,0 +1,7 @@
+{
+  "name": "repo-seatbelt-demo-project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"demo only\""
+  }
+}

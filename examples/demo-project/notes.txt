@@ -1,0 +1,5 @@
+Demo notes:
+
+- This project uses fake secret-looking values only.
+- Run seatbelt doctor here to see warnings.
+- Do not put real credentials in demo files.

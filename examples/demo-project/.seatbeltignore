@@ -1,0 +1,16 @@
+# RepoSeatbelt local ignores
+.venv/
+venv/
+env/
+.git/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+build/
+.repo-seatbelt/snapshots/
+.pip-tmp/
+*.pyc
+tmp*/
